@@ -1,10 +1,16 @@
 <br/>
 <div align="center"><img src="/Images/Logo.png" alt="Logo" width="400"/></div>
+
 <br/>
-[![demo](https://img.shields.io/badge/Report-Read-Blue?logo=readthedocs)](https://drive.google.com/file/d/1LskFEEZ3S8XLMA2fpQzpFd3xWOMAyoe4/view?usp=drive_link)
-<br/>
+
 ## Description
 > OverwatchTD is a tower defense game using objects based on Overwatch characters. Besides enjoying the thrill of a tower defense game, it also allows players to create their own level layouts with an easy-to-use interface. As of now, the game boasts 3 playable towers and 4 enemy types.
+
+<div align="center">
+  
+[![demo](https://img.shields.io/badge/Report-Read-blue?logo=readthedocs)](https://drive.google.com/file/d/1LskFEEZ3S8XLMA2fpQzpFd3xWOMAyoe4/view?usp=drive_link)
+[![demo](https://img.shields.io/static/v1?label=Video%20Demo&message=Watch&color=red&logo=youtube)](https://drive.google.com/file/d/1LskFEEZ3S8XLMA2fpQzpFd3xWOMAyoe4/view?usp=drive_link)
+</div>
 <br/>
 
 ## Dependencies Used
