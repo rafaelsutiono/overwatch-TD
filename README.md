@@ -32,7 +32,7 @@
 <br/>
 
 ## How to Run
-1. Download the .zip file.
+1. Download the .zip file or clone the repository.
 2. Open the `Overwatch TD` folder in your IDE.
 3. You will be prompted to setup the SDK (it will show on the top-right corner in IntelliJ IDEA).
 4. Run the code. Go to `src > main > Game` to do so if you are on Intellij IDEA.
